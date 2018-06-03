@@ -59,6 +59,8 @@ jps kill 进程号
 本地模式：
 直接运行KafkaTopology main既可
 
+注意： kafka集成1.0+ 官网读取数据编写方式无法实现，部分类不存在
+
 参考文档：
 原理：
 https://blog.csdn.net/weiyongle1996/article/details/77142245?utm_source=gold_browser_extension

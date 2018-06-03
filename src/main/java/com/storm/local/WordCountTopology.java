@@ -9,6 +9,7 @@ import org.apache.storm.tuple.Fields;
 /**
  * @author Administrator
  * @date 2018-06-01 23:27
+ * bin/storm jar  /usr/local/app/storm_demo.jar com.storm.kafka.WordCountTopology word_count_test
  **/
 public class WordCountTopology {
     public static void main(String[] args) throws Exception {
